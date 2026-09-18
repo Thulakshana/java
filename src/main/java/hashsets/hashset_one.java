@@ -19,6 +19,6 @@ public class hashset_one {
 
         abc.add(30);
 
-        
+
     }
 }
